@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Réveil Sonos</string>
+    <string name="widget_name">Alarmes Sonos</string>
+    <string name="widget_description">Affiche les alarmes actives de l\'enceinte Sonos</string>
+</resources>
